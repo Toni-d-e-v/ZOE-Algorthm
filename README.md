@@ -35,4 +35,5 @@ python3 main.py -i test -o test.txt -k json.json -e
 ```
 ### decrypt
 ```
-python3 main.py -i test.txt -o test1.txt -k json.json -d ```
+python3 main.py -i test.txt -o test1.txt -k json.json -d 
+```
