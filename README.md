@@ -2,7 +2,7 @@
 
 ## Introduction
     
-ZOE is a algorthm for encrypting and decrypting files.
+ZOE is a algorthm for encrypting and decrypting strings.
 Made by special algorithm that use letter maps.
 And letter maps are randomized, then we get cordinates of every letter in the map.
 Then we can encrypt and decrypt files. by using special json keys which are letter maps.
